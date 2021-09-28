@@ -1,0 +1,12 @@
+includ <iostream>
+using namespace std
+int main()
+{
+  int a=1
+  while (a<6)
+  {
+    if(a!=3)
+    cout<<a<<endl;
+    a++;
+  }
+}
